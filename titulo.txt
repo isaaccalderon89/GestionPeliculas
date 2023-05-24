@@ -1,0 +1,2 @@
+13. Desarrollar un microservicio para un sistema de gestión de películas. 
+Debe permitir agregar, actualizar, eliminar y obtener películas, así como buscar películas por título, género o año.
